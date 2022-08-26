@@ -1,6 +1,6 @@
 # My First Coding Assigment
 ## About Me
-dfgd
+my name is Amy
 ## Past Coding Experience
 drfg
 ## Career Goals  
