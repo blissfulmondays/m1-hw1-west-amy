@@ -1,1 +1,7 @@
-# m1-hw1-west-amy
+# My First Coding Assigment
+## About Me
+dfgd
+## Past Coding Experience
+drfg
+## Career Goals  
+dg
