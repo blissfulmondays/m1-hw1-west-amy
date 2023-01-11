@@ -1,5 +1,5 @@
 # My First Coding Assignment
-me copy.jpg
+![](../../../../Pictures/Family/me%20copy.jpg)
 ## About Me
 I am a professional photographer in Oregon who specializes in photographing newborns, babies and families. I am a former US Navy Mass Communication Specialist and Photographer's Mate. I have 4 children, one currently in the US Navy.  
 ## Past Coding Experience
