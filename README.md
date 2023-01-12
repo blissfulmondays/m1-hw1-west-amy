@@ -1,5 +1,5 @@
 # My First Coding Assignment
-https://raw.githubusercontent.com/blissfulmondays/m1-hw1-west-amy/dac01ce84aec7b917b161aca278f34aa2b322e40/me%20copy.jpg
+![My Image] (https://raw.githubusercontent.com/blissfulmondays/m1-hw1-west-amy/dac01ce84aec7b917b161aca278f34aa2b322e40/me%20copy.jpg)
 ## About Me
 I am a professional photographer in Oregon who specializes in photographing newborns, babies and families. I am a former US Navy Mass Communication Specialist and Photographer's Mate. I have 4 children, one currently in the US Navy.  
 ## Past Coding Experience
